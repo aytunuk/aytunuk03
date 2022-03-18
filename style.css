@@ -97,3 +97,37 @@ td {
 .carta {
   width: 100%;
 }
+
+.footer {
+  background: #000;
+  height: 200px;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.saits img {
+  width: 50px;
+}
+
+.number,
+.number a {
+  color: #fff;
+}
+
+.number {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.content p {
+  color: #fff;
+  margin-top: 20px;
+}
+
+.saits {
+  display: flex;
+  width: 300px;
+  justify-content: space-between;
+  margin: 0 auto;
+  margin-top: 40px;
+}
